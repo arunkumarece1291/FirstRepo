@@ -6,7 +6,7 @@ public class Bus {
 	static int c=30;
 	String aa="Manikandan";
 
-	//Arun
+	//Arun 
 	
 	public static void main(String[] args) {
 		
@@ -17,6 +17,8 @@ public class Bus {
 	
 		System.out.println(ob.b);
 		System.out.println(ob.aa);
+		
+		System.out.println("Mercury");
 
 	}
 
