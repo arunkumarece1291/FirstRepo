@@ -4,7 +4,7 @@ public class Bus {
 	
 	int b=20;
 	static int c=30;
-	String aa="Mani";
+	String aa="Manikandan";
 
 	public static void main(String[] args) {
 		
