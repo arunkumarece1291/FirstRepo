@@ -19,6 +19,8 @@ public class Bus {
 		System.out.println(ob.aa);
 		
 		System.out.println("Mercury");
+		
+		System.out.println("Venus");
 
 	}
 
