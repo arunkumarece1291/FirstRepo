@@ -8,11 +8,12 @@ public class Bus {
 	
 	
 
-	//Arun
+	//Arun 
 	
 	public static void main(String[] args) {
 	
 		System.out.println("New Master");
+		System.out.println("New Master 1");
 		
 		int _a=10;
 		System.out.println(_a);
@@ -21,6 +22,8 @@ public class Bus {
 	
 		System.out.println(ob.b);
 		System.out.println(ob.aa);
+		
+		System.out.println("Mercury");
 
 	}
 
